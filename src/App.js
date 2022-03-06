@@ -9,6 +9,7 @@ function App() {
         <p>
           Editar <code>src/App.js</code> guardar y recargar.
         </p>
+        <h5>Aprendiendo Git</h5>
         <a
           className="App-link"
           href="https://reactjs.org"
