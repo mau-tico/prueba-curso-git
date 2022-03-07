@@ -9,17 +9,8 @@ function App() {
         <p>
           Editar <code>src/App.js</code> guardar y recargar.
         </p>
-        <p>Un nuevo branch...llamado DEV2</p>
         <h5>Aprendiendo Git</h5>
         <h6>Ahora en la rama DEV</h6>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
