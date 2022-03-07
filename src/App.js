@@ -11,6 +11,7 @@ function App() {
         </p>
         <h5>Aprendiendo Git</h5>
         <h6>Ahora en la rama DEV</h6>
+        <h6>Se hizo git stash pop</h6>
       </header>
     </div>
   );
