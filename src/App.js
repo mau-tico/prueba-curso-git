@@ -9,6 +9,7 @@ function App() {
         <p>
           Editar <code>src/App.js</code> guardar y recargar.
         </p>
+        <p>Un nuevo branch...llamado DEV2</p>
         <h5>Aprendiendo Git</h5>
         <a
           className="App-link"
